@@ -1,0 +1,78 @@
+# Professional Portfolio - Hrishikesh Sonawane
+
+Welcome to my professional portfolio website! This is a static HTML/CSS portfolio showcasing my 20+ years of experience in Investment Banking, Financial Operations, and Business Development.
+
+## 🌐 Live Website
+
+Your portfolio is hosted on GitHub Pages at:
+**[https://careers247hrish.github.io/portfolio](https://careers247hrish.github.io/portfolio)**
+
+## 📋 Portfolio Contents
+
+The portfolio includes the following sections:
+
+### 1. **Home/Hero Section**
+- Professional headline and tagline
+- Brief introduction
+- Call-to-action buttons
+
+### 2. **About Me**
+- Professional summary
+- Key statistics and achievements
+- Career highlights
+
+### 3. **Professional Experience**
+- Detailed work history from major financial institutions:
+  - Deutsche Bank (AVP - Current)
+  - Standard Chartered Bank (Singapore)
+  - Société Généralé (Singapore)
+  - JPMorgan Chase (Mumbai/New York)
+- Role descriptions and key achievements for each position
+
+### 4. **Project Management**
+- RPA (Robotics Process Automation) initiative
+- System & Process Migration projects
+- System Enhancement & Technology Initiatives
+
+### 5. **Academic Development**
+- Post Graduate Diploma in Banking & Finance (Symbiosis International University)
+- BBA in Financial Management (Goa University)
+- Advanced Diploma in Network Centered Computing (NIIT, Goa)
+
+### 6. **Professional & Technical Skills**
+- Core Competencies
+- Leadership & Soft Skills
+- Financial Expertise
+- Systems & Tools (Bloomberg, Kondor+, MUREX, etc.)
+- Compliance & Risk Management
+- Languages
+
+### 7. **Contact Section**
+- Email address
+- Phone number
+- Location
+- Social media links (LinkedIn, GitHub, Twitter, Instagram)
+
+## 🛠️ Technology Stack
+
+- **HTML5** - Semantic structure
+- **CSS3** - Responsive design with flexbox and grid
+- **JavaScript** - Smooth scrolling and interactive features
+- **Font Awesome** - Icons for social media and visual elements
+- **GitHub Pages** - Free hosting
+
+## 📱 Features
+
+✅ Fully Responsive Design - Works on desktop, tablet, and mobile
+✅ Smooth Scrolling Navigation - Easy navigation between sections
+✅ Modern UI/UX - Clean and professional design
+✅ Performance Optimized - Fast loading times
+✅ SEO Friendly - Proper semantic HTML structure
+✅ Accessibility - WCAG compliant
+
+## 🚀 Getting Started
+
+### View Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/careers247hrish/portfolio.git
